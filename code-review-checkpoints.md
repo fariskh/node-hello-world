@@ -30,16 +30,13 @@ This document provides the checkpoints and instructions for reviewing the Node.j
 
 ## Instructions for the Final Report
 
-- The AI should generate the report as a **Markdown table** with the following columns:
+- The AI should generate the report as a table with the following columns:
 
-| Checkpoint        | Status       | Findings / Suggestions |
-|------------------|-------------|-----------------------|
+| Checkpoint        | Status       | Findings / Suggestions          |
+|-------------------|-------------|----------------------------------|
 | Code Quality      | Passed/Fail | List issues or improvements here |
 | Security          | Passed/Fail | List issues or improvements here |
 | Performance       | Passed/Fail | List issues or improvements here |
 | Best Practices    | Passed/Fail | List issues or improvements here |
 | Maintainability   | Passed/Fail | List issues or improvements here |
 
-- Each row should summarize the evaluation for that checkpoint.
-- Use clear, concise language for findings and suggestions.
-- Include references to specific files or lines where possible.
